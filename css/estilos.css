@@ -3,3 +3,9 @@ body {
     align-items: center;
     text-align: center;
 }
+
+header {
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+}
