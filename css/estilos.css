@@ -31,3 +31,11 @@ margin: 0 auto;
     font-size: 20px;
 }
 
+#footer {
+background-color: aqua;
+padding: 0.5px;
+font-size: medium;
+font-style: italic;
+text-align: center;
+align-items: center;
+}
